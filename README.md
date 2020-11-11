@@ -1,6 +1,6 @@
 # QuanLiBanHang - C# - Winform - 3 layer
 # Sourcecode by T.M.Khoa - DH18TH1 - AGUer
-# Required:
+# Requirement:
   1.  Knowleged about ADO.NET
   2.  Bunifu UI Framework
   3.  Guna UI Framework
